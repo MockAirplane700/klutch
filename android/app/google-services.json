@@ -1,0 +1,227 @@
+{
+  "project_info": {
+    "project_number": "822020047352",
+    "firebase_url": "https://klutch-5a857.firebaseio.com",
+    "project_id": "klutch-5a857",
+    "storage_bucket": "klutch-5a857.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:822020047352:android:063eb9f1177e48884bd60d",
+        "android_client_info": {
+          "package_name": "com.snowflake.klutch"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "822020047352-j5i8dl2gklpkpgubt898c9gup1gb95ae.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcjkG4USmITY7TF4gUNPJF86Z3CoDmYko"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "822020047352-j5i8dl2gklpkpgubt898c9gup1gb95ae.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "822020047352-3c8s3v22inlrrd4v3o2nfte0fseic9q4.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.snowflake.synthexklutchrelease"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:822020047352:android:25b9992e81c680334bd60d",
+        "android_client_info": {
+          "package_name": "com.snowflake.snow_flake_clutch"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "822020047352-j5i8dl2gklpkpgubt898c9gup1gb95ae.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcjkG4USmITY7TF4gUNPJF86Z3CoDmYko"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "822020047352-j5i8dl2gklpkpgubt898c9gup1gb95ae.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "822020047352-3c8s3v22inlrrd4v3o2nfte0fseic9q4.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.snowflake.synthexklutchrelease"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:822020047352:android:b3bc2e54c202e7704bd60d",
+        "android_client_info": {
+          "package_name": "com.snowflake.synthexklutchrelease"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "822020047352-j5i8dl2gklpkpgubt898c9gup1gb95ae.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcjkG4USmITY7TF4gUNPJF86Z3CoDmYko"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "822020047352-j5i8dl2gklpkpgubt898c9gup1gb95ae.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "822020047352-3c8s3v22inlrrd4v3o2nfte0fseic9q4.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.snowflake.synthexklutchrelease"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:822020047352:android:ce86e5ac158c1adf4bd60d",
+        "android_client_info": {
+          "package_name": "com.snowflake.synthexklutchvendor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "822020047352-j5i8dl2gklpkpgubt898c9gup1gb95ae.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcjkG4USmITY7TF4gUNPJF86Z3CoDmYko"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "822020047352-j5i8dl2gklpkpgubt898c9gup1gb95ae.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "822020047352-3c8s3v22inlrrd4v3o2nfte0fseic9q4.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.snowflake.synthexklutchrelease"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:822020047352:android:14d3f10add6e680e4bd60d",
+        "android_client_info": {
+          "package_name": "com.snowflake.synthexklutchvendorrel"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "822020047352-j5i8dl2gklpkpgubt898c9gup1gb95ae.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcjkG4USmITY7TF4gUNPJF86Z3CoDmYko"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "822020047352-j5i8dl2gklpkpgubt898c9gup1gb95ae.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "822020047352-3c8s3v22inlrrd4v3o2nfte0fseic9q4.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.snowflake.synthexklutchrelease"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:822020047352:android:df6c63dd9a17d2984bd60d",
+        "android_client_info": {
+          "package_name": "com.snowflake.synthexklutchvendorrelease"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "822020047352-j5i8dl2gklpkpgubt898c9gup1gb95ae.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcjkG4USmITY7TF4gUNPJF86Z3CoDmYko"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "822020047352-j5i8dl2gklpkpgubt898c9gup1gb95ae.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "822020047352-3c8s3v22inlrrd4v3o2nfte0fseic9q4.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.snowflake.synthexklutchrelease"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
